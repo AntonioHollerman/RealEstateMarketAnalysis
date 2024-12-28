@@ -1,0 +1,9 @@
+Federal Reserve Bank of St. Louis. (n.d.).
+    Economic indicators: Table for populating "salary", "us_salary", and "us_house_sale" tables in housing.db.
+    Retrieved December 27, 2024, from https://fred.stlouisfed.org/release/tables?eid=259515&rid=24
+    files: All csv files in Median Income and "United States.csv"
+
+Zillow Research.
+    "Zillow Home Value Index (ZHVI) and Other Housing Market Data.": Table for populating "house_sale" table in housing.db
+    Accessed December 27, 2024. https://www.zillow.com/research/data/
+    files: "MedianStates.csv"
