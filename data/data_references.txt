@@ -1,6 +1,7 @@
 Federal Reserve Bank of St. Louis. (n.d.).
-    Economic indicators: Table for populating "salary", "us_salary", and "us_house_sale" tables in housing.db.
-    Retrieved December 27, 2024, from https://fred.stlouisfed.org/release/tables?eid=259515&rid=24
+    Economic indicators: Table for populating "salary", "us_salary", "us_house_sale", and us_mortgage_rate tables in housing.db.
+    Retrieved December 27, 2024, from https://fred.stlouisfed.org/release/tables?eid=259515&rid=24,
+    https://fred.stlouisfed.org/series/MSPUS, https://fred.stlouisfed.org/series/MORTGAGE30US
     files: All csv files in Median Income and "United States.csv"
 
 Zillow Research.
