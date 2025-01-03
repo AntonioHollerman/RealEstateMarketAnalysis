@@ -8,3 +8,8 @@ Zillow Research.
     "Zillow Home Value Index (ZHVI) and Other Housing Market Data.": Table for populating "house_sale" table in housing.db
     Accessed December 27, 2024. https://www.zillow.com/research/data/
     files: "MedianStates.csv"
+
+Kaggle (Author: Kate Gallo)
+    USA states GeoJson: Used in creating visualizations of the US
+    Accessed December 31, 2024. https://www.kaggle.com/datasets/pompelmo/usa-states-geojson
+    files: us-states.json
